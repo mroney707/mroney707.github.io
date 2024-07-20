@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: 'Poppins';
+    background-color: #f9f7f4;
+    color: #292D32;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Tenor Sans';
+    font-size: 2.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.tagline {
+    font-family: "Tenor Sans";
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.description {
+    font-size: 10;
+    margin-bottom: 2rem;
+    padding: 0 1rem;
+}
+
+.phone-image {
+    margin-bottom: 2rem;
+}
+
+.phone-image img {
+    max-width: 200px;
+    height: auto;
+}
+
+.cta {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.apply-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #292D32;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+.coming-soon {
+    font-size: 1.2rem;
+    color: #999;
+}
