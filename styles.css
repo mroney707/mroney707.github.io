@@ -38,7 +38,7 @@ h1 {
 }
 
 .phone-image img {
-    max-width: 200px;
+    max-width: 250px;
     height: auto;
 }
 
@@ -51,7 +51,7 @@ h1 {
     display: inline-block;
     padding: 10px 20px;
     background-color: #292D32;
-    color: #fff;
+    color: #F6F8FA;
     text-decoration: none;
     border-radius: 5px;
     margin-bottom: 2rem;
