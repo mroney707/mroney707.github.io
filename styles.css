@@ -17,8 +17,8 @@ body {
 
 h1 {
     font-family: 'Tenor Sans';
-    font-size: 2.75rem;
-    margin-bottom: 0.5rem;
+    font-size: 4rem;
+    margin-bottom: 2rem;
     font-weight: 400;
 }
 
@@ -30,12 +30,13 @@ h1 {
 
 .description {
     font-size: 10;
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
+    line-height: 1.4rem;
     padding: 0 1rem;
 }
 
 .phone-image {
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
 }
 
 .phone-image img {
@@ -45,7 +46,7 @@ h1 {
 
 .cta {
     font-family: "Tenor Sans";
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     margin-bottom: 1rem;
 
 }
@@ -57,7 +58,7 @@ h1 {
     color: #F6F8FA;
     text-decoration: none;
     border-radius: 5px;
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
 }
 
 .coming-soon {
