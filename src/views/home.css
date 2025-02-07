@@ -1,0 +1,164 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-text10 {
+  color: var(--dl-color-theme-secondary1);
+  display: inline-block;
+}
+ 
+.home-text11 {
+  color: var(--dl-color-theme-secondary1);
+  display: inline-block;
+}
+ 
+.home-text12 {
+  display: inline-block;
+}
+ 
+.home-text13 {
+  color: var(--dl-color-theme-secondary1);
+  display: inline-block;
+}
+ 
+.home-text14 {
+  display: inline-block;
+}
+ 
+.home-text15 {
+  color: #faf9f6;
+  display: inline-block;
+}
+ 
+.home-text17 {
+  font-family: "Poppins";
+}
+ 
+.home-text18 {
+  display: inline-block;
+  font-family: "Poppins";
+}
+ 
+.home-text19 {
+  display: inline-block;
+  font-family: "Poppins";
+}
+ 
+.home-text20 {
+  color: var(--dl-color-theme-secondary1);
+  display: inline-block;
+  font-family: "Poppins";
+}
+ 
+.home-text21 {
+  display: inline-block;
+  font-family: "Poppins";
+}
+ 
+.home-text22 {
+  display: inline-block;
+  font-family: "Poppins";
+}
+ 
+.home-text26 {
+  font-style: italic;
+}
+ 
+.home-text28 {
+  font-style: italic;
+}
+ 
+.home-text29 {
+  color: #F6F8FA;
+  display: inline-block;
+  font-family: "Poppins";
+}
+ 
+.home-text30 {
+  display: inline-block;
+}
+ 
+.home-text31 {
+  color: rgb(25, 24, 24);
+  display: inline-block;
+}
+ 
+.home-text32 {
+  color: var(--dl-color-theme-secondary1);
+}
+ 
+.home-text33 {
+  color: #292D32;
+}
+ 
+.home-text34 {
+  color: var(--dl-color-theme-secondary1);
+}
+ 
+.home-text35 {
+  color: var(--dl-color-theme-secondary1);
+}
+ 
+.home-text36 {
+  display: inline-block;
+  font-family: "Poppins";
+}
+ 
+.home-text37 {
+  display: inline-block;
+  font-family: "Poppins";
+}
+ 
+.home-text42 {
+  display: inline-block;
+}
+ 
+.home-text43 {
+  color: #faf9f6;
+  display: inline-block;
+}
+ 
+.home-text44 {
+  display: inline-block;
+}
+ 
+.home-text45 {
+  display: inline-block;
+}
+ 
+.home-text46 {
+  display: inline-block;
+}
+ 
+.home-text47 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .home-text26 {
+    font-style: italic;
+  }
+  .home-text28 {
+    font-style: italic;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .home-text24 {
+    font-family: Poppins;
+  }
+  .home-text26 {
+    font-style: italic;
+  }
+  .home-text27 {
+    font-style: italic;
+  }
+  .home-text28 {
+    font-style: italic;
+  }
+}
+

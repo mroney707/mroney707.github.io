@@ -1,0 +1,104 @@
+.features193-layout349 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.features193-max-width {
+  gap: var(--dl-space-space-fiveunits);
+  display: flex;
+  align-items: center;
+}
+ 
+.features193-image-container {
+  flex: 1;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+ 
+.features193-content1 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features193-section-title {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features193-content2 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features193-actions {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+}
+ 
+.features193-button1 {
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.features193-button2 {
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.features193-text4 {
+  display: inline-block;
+}
+ 
+.features193-text5 {
+  display: inline-block;
+}
+ 
+.features193-text6 {
+  display: inline-block;
+}
+ 
+.features193-text7 {
+  display: inline-block;
+}
+ 
+.features193-text8 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .features193-max-width {
+    gap: var(--dl-space-space-twounits);
+    flex-direction: column;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .features193-actions {
+    width: 100%;
+    flex-direction: column;
+  }
+  .features193-button1 {
+    width: 100%;
+  }
+  .features193-button2 {
+    width: 100%;
+  }
+}
+
