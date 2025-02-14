@@ -13,6 +13,7 @@ import Home from './views/home'
 import OurStory from './views/our-story'
 import NotFound from './views/not-found'
 import Terms from './views/terms'
+import InviteRedirect from './components/InviteRedirect'
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
         <Route component={OurStory} exact path="/our-story" />
         <Route component={PrivacyPolicy} exact path="/privacy-policy" />
         <Route component={Terms} exact path="/terms" />
+        <Route path="/invite/:id" component={InviteRedirect} />
         <Route component={NotFound} path="**" />
         <Redirect to="**" />
       </Switch>
